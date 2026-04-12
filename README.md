@@ -3,7 +3,7 @@
 ## Contexto de negócio
 A Olist é um marketplace brasileiro que conecta pequenos lojistas a grandes plataformas de e-commerce. Este projeto analisa mais de 96 mil pedidos realizados entre 2016 e 2018 para responder perguntas estratégicas de negócio sobre receita, produtos e logística.
 
-**Dataset:** [Brazilian E-Commerce Public Dataset by Olist](link do kaggle)
+**Dataset:** [Brazilian E-Commerce Public Dataset by Olist] - (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_orders_dataset.csv)
 
 ------
 
